@@ -1,0 +1,8 @@
+"Titel der Datenreihe"
+"Europa" 42.5
+"Australien und Ozeanien" 18.05
+"Nordamerika" 111.3
+"Südamerika" 21.85
+"Asien" 29.75
+"Afrika" 9.6
+"Antarktis" 0

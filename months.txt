@@ -1,0 +1,13 @@
+"Geburten in Tausend nach Monaten in Deutschland im Jahr 2010 relativ zum Monat mit der niedrigsten Geburtenanzahl"
+"Januar" 4.959
+"Februar" 0
+"März" 5.172
+"April" 1.706
+"Mai" 5.740
+"Juni" 7.217
+"Juli" 11.604
+"August" 9.531
+"September" 10.811
+"Oktober" 8.502
+"November" 4.262
+"Dezember" 4.675

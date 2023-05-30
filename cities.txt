@@ -1,0 +1,61 @@
+"Anteil der Waldflächen (NRW 2014)"
+"Nordrhein-Westfalen" 25.88
+"Düsseldorf, Regierungsbezirk" 15.46
+"Düsseldorf, Kreisfreie Stadt" 11.57
+"Duisburg, Kreisfreie Stadt" 8.66
+"Essen, Kreisfreie Stadt" 13.57
+"Krefeld, Kreisfreie Stadt" 9.53
+"Mönchengladbach, Kreisfreie Stadt" 10.64
+"Mülheim an der Ruhr, Kreisfreie Stadt" 19.07
+"Oberhausen, Kreisfreie Stadt" 13.11
+"Remscheid, Kreisfreie Stadt" 30.90
+"Solingen, Kreisfreie Stadt" 25.91
+"Wuppertal, Kreisfreie Stadt" 28.15
+"Kleve, Kreis" 14.41
+"Mettmann, Kreis" 19.57
+"Rhein-Kreis Neuss" 7.36
+"Viersen, Kreis" 19.13
+"Wesel, Kreis" 17.70
+"Köln, Regierungsbezirk" 27.83
+"Bonn, Kreisfreie Stadt" 28.24
+"Köln, Kreisfreie Stadt" 16.60
+"Leverkusen, Kreisfreie Stadt" 12.41
+"Städteregion Aachen (einschl. Stadt Aachen)" 31.05
+"Aachen, krfr. Stadt" 18.46
+"Düren, Kreis" 21.13
+"Rhein-Erft-Kreis" 13.67
+"Euskirchen, Kreis" 38.29
+"Heinsberg, Kreis" 10.98
+"Oberbergischer Kreis" 39.78
+"Rheinisch-Bergischer Kreis" 36.67
+"Rhein-Sieg-Kreis" 29.88
+"Münster, Regierungsbezirk" 16.09
+"Bottrop, Kreisfreie Stadt" 23.02
+"Gelsenkirchen, Kreisfreie Stadt" 7.98
+"Münster, Kreisfreie Stadt" 17.81
+"Borken, Kreis" 15.25
+"Coesfeld, Kreis" 16.18
+"Recklinghausen, Kreis" 25.37
+"Steinfurt, Kreis" 14.76
+"Warendorf, Kreis" 13.10
+"Detmold, Regierungsbezirk" 22.54
+"Bielefeld, Kreisfreie Stadt" 21.83
+"Gütersloh, Kreis" 14.10
+"Herford, Kreis" 8.99
+"Höxter, Kreis" 29.44
+"Lippe, Kreis" 30.71
+"Minden-Lübbecke, Kreis" 11.60
+"Paderborn, Kreis" 29.42
+"Arnsberg, Regierungsbezirk" 42.15
+"Bochum, Kreisfreie Stadt" 8.08
+"Dortmund, Kreisfreie Stadt" 13.91
+"Hagen, Kreisfreie Stadt" 41.96
+"Hamm, Kreisfreie Stadt" 9.42
+"Herne, Kreisfreie Stadt" 8.93
+"Ennepe-Ruhr-Kreis" 30.20
+"Hochsauerlandkreis" 55.64
+"Märkischer Kreis" 49.77
+"Olpe, Kreis" 59.46
+"Siegen-Wittgenstein, Kreis" 64.51
+"Soest, Kreis" 20.17
+"Unna, Kreis" 12.60
